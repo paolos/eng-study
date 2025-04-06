@@ -1,0 +1,974 @@
+[
+  {
+    "base": "abide",
+    "past": ["abided", "abode"],
+    "participle": ["abided", "abode"],
+    "translation": "tollerare, attenersi a"
+  },
+  {
+    "base": "arise",
+    "past": ["arose"],
+    "participle": ["arisen"],
+    "translation": "sorgere"
+  },
+  {
+    "base": "awake",
+    "past": ["awoke", "awaked"],
+    "participle": ["awoken"],
+    "translation": "svegliare/svegliarsi"
+  },
+  {
+    "base": "be",
+    "past": ["was", "were"],
+    "participle": ["been"],
+    "translation": "essere"
+  },
+  {
+    "base": "bear",
+    "past": ["bore"],
+    "participle": ["born", "borne"],
+    "translation": "generare"
+  },
+  {
+    "base": "beat",
+    "past": ["beat"],
+    "participle": ["beaten"],
+    "translation": "battere"
+  },
+  {
+    "base": "become",
+    "past": ["became"],
+    "participle": ["become"],
+    "translation": "diventare"
+  },
+  {
+    "base": "begin",
+    "past": ["began"],
+    "participle": ["begun"],
+    "translation": "cominciare"
+  },
+  {
+    "base": "bend",
+    "past": ["bent"],
+    "participle": ["bent"],
+    "translation": "curvare, piegare/piegarsi"
+  },
+  {
+    "base": "bet",
+    "past": ["bet"],
+    "participle": ["bet"],
+    "translation": "scommettere"
+  },
+  {
+    "base": "bind",
+    "past": ["bound"],
+    "participle": ["bound"],
+    "translation": "legare, rilegare"
+  },
+  {
+    "base": "bite",
+    "past": ["bit"],
+    "participle": ["bitten"],
+    "translation": "mordere"
+  },
+  {
+    "base": "bleed",
+    "past": ["bled"],
+    "participle": ["bled"],
+    "translation": "sanguinare"
+  },
+  {
+    "base": "blow",
+    "past": ["blew"],
+    "participle": ["blown"],
+    "translation": "soffiare"
+  },
+  {
+    "base": "break",
+    "past": ["broke"],
+    "participle": ["broken"],
+    "translation": "rompere/rompersi"
+  },
+  {
+    "base": "breed",
+    "past": ["bred"],
+    "participle": ["bred"],
+    "translation": "allevare, generare"
+  },
+  {
+    "base": "bring",
+    "past": ["brought"],
+    "participle": ["brought"],
+    "translation": "portare"
+  },
+  {
+    "base": "broadcast",
+    "past": ["broadcast", "broadcasted"],
+    "participle": ["broadcast", "broadcasted"],
+    "translation": "trasmettere (radio, TV)"
+  },
+  {
+    "base": "build",
+    "past": ["built"],
+    "participle": ["built"],
+    "translation": "costruire"
+  },
+  {
+    "base": "burn",
+    "past": ["burnt", "burned"],
+    "participle": ["burnt", "burned"],
+    "translation": "bruciare"
+  },
+  {
+    "base": "burst",
+    "past": ["burst"],
+    "participle": ["burst"],
+    "translation": "scoppiare"
+  },
+  {
+    "base": "buy",
+    "past": ["bought"],
+    "participle": ["bought"],
+    "translation": "comprare"
+  },
+  {
+    "base": "cast",
+    "past": ["cast"],
+    "participle": ["cast"],
+    "translation": "gettare, fondere"
+  },
+  {
+    "base": "catch",
+    "past": ["caught"],
+    "participle": ["caught"],
+    "translation": "prendere, acchiappare"
+  },
+  {
+    "base": "choose",
+    "past": ["chose"],
+    "participle": ["chosen"],
+    "translation": "scegliere"
+  },
+  {
+    "base": "cling",
+    "past": ["clung"],
+    "participle": ["clung"],
+    "translation": "aggrapparsi"
+  },
+  {
+    "base": "come",
+    "past": ["came"],
+    "participle": ["come"],
+    "translation": "venire"
+  },
+  {
+    "base": "cost",
+    "past": ["cost"],
+    "participle": ["cost"],
+    "translation": "costare"
+  },
+  {
+    "base": "creep",
+    "past": ["crept"],
+    "participle": ["crept"],
+    "translation": "strisciare"
+  },
+  {
+    "base": "cut",
+    "past": ["cut"],
+    "participle": ["cut"],
+    "translation": "tagliare"
+  },
+  {
+    "base": "deal",
+    "past": ["dealt"],
+    "participle": ["dealt"],
+    "translation": "commerciare, trattare"
+  },
+  {
+    "base": "dig",
+    "past": ["dug"],
+    "participle": ["dug"],
+    "translation": "scavare"
+  },
+  {
+    "base": "dive",
+    "past": ["dived", "dove"],
+    "participle": ["dived"],
+    "translation": "tuffarsi"
+  },
+  {
+    "base": "do",
+    "past": ["did"],
+    "participle": ["done"],
+    "translation": "fare"
+  },
+  {
+    "base": "draw",
+    "past": ["drew"],
+    "participle": ["drawn"],
+    "translation": "disegnare, tirare, trainare"
+  },
+  {
+    "base": "dream",
+    "past": ["dreamt", "dreamed"],
+    "participle": ["dreamt", "dreamed"],
+    "translation": "sognare"
+  },
+  {
+    "base": "drink",
+    "past": ["drank"],
+    "participle": ["drunk"],
+    "translation": "bere"
+  },
+  {
+    "base": "drive",
+    "past": ["drove"],
+    "participle": ["driven"],
+    "translation": "guidare (veicoli)"
+  },
+  {
+    "base": "dwell",
+    "past": ["dwelt", "dwelled"],
+    "participle": ["dwelt", "dwelled"],
+    "translation": "dimorare"
+  },
+  {
+    "base": "eat",
+    "past": ["ate"],
+    "participle": ["eaten"],
+    "translation": "mangiare"
+  },
+  {
+    "base": "fall",
+    "past": ["fell"],
+    "participle": ["fallen"],
+    "translation": "cadere"
+  },
+  {
+    "base": "feed",
+    "past": ["fed"],
+    "participle": ["fed"],
+    "translation": "nutrire"
+  },
+  {
+    "base": "feel",
+    "past": ["felt"],
+    "participle": ["felt"],
+    "translation": "sentire/sentirsi"
+  },
+  {
+    "base": "fight",
+    "past": ["fought"],
+    "participle": ["fought"],
+    "translation": "combattere"
+  },
+  {
+    "base": "find",
+    "past": ["found"],
+    "participle": ["found"],
+    "translation": "trovare"
+  },
+  {
+    "base": "flee",
+    "past": ["fled"],
+    "participle": ["fled"],
+    "translation": "fuggire"
+  },
+  {
+    "base": "fling",
+    "past": ["flung"],
+    "participle": ["flung"],
+    "translation": "lanciare"
+  },
+  {
+    "base": "fly",
+    "past": ["flew"],
+    "participle": ["flown"],
+    "translation": "volare"
+  },
+  {
+    "base": "forbid",
+    "past": ["forbade"],
+    "participle": ["forbidden"],
+    "translation": "proibire"
+  },
+  {
+    "base": "forecast",
+    "past": ["forecast", "forecasted"],
+    "participle": ["forecast", "forecasted"],
+    "translation": "prevedere, predire"
+  },
+  {
+    "base": "foresee",
+    "past": ["foresaw"],
+    "participle": ["foreseen"],
+    "translation": "prevedere"
+  },
+  {
+    "base": "forget",
+    "past": ["forgot"],
+    "participle": ["forgotten"],
+    "translation": "dimenticare"
+  },
+  {
+    "base": "forgive",
+    "past": ["forgave"],
+    "participle": ["forgiven"],
+    "translation": "perdonare"
+  },
+  {
+    "base": "forsake",
+    "past": ["forsook"],
+    "participle": ["forsaken"],
+    "translation": "abbandonare"
+  },
+  {
+    "base": "freeze",
+    "past": ["froze"],
+    "participle": ["frozen"],
+    "translation": "gelare, congelare"
+  },
+  {
+    "base": "get",
+    "past": ["got"],
+    "participle": ["got", "gotten"],
+    "translation": "ottenere, diventare"
+  },
+  {
+    "base": "give",
+    "past": ["gave"],
+    "participle": ["given"],
+    "translation": "dare"
+  },
+  {
+    "base": "go",
+    "past": ["went"],
+    "participle": ["gone"],
+    "translation": "andare"
+  },
+  {
+    "base": "grind",
+    "past": ["ground"],
+    "participle": ["ground"],
+    "translation": "macinare, tritare"
+  },
+  {
+    "base": "grow",
+    "past": ["grew"],
+    "participle": ["grown"],
+    "translation": "crescere, coltivare"
+  },
+  {
+    "base": "hang",
+    "past": ["hung", "hanged"],
+    "participle": ["hung", "hanged"],
+    "translation": "appendere, impiccare"
+  },
+  {
+    "base": "have",
+    "past": ["had"],
+    "participle": ["had"],
+    "translation": "avere"
+  },
+  {
+    "base": "hear",
+    "past": ["heard"],
+    "participle": ["heard"],
+    "translation": "udire"
+  },
+  {
+    "base": "hide",
+    "past": ["hid"],
+    "participle": ["hidden"],
+    "translation": "nascondere"
+  },
+  {
+    "base": "hit",
+    "past": ["hit"],
+    "participle": ["hit"],
+    "translation": "colpire"
+  },
+  {
+    "base": "hold",
+    "past": ["held"],
+    "participle": ["held"],
+    "translation": "tenere, trattenere"
+  },
+  {
+    "base": "hurt",
+    "past": ["hurt"],
+    "participle": ["hurt"],
+    "translation": "ferire, farsi male"
+  },
+  {
+    "base": "keep",
+    "past": ["kept"],
+    "participle": ["kept"],
+    "translation": "tenere, conservare"
+  },
+  {
+    "base": "kneel",
+    "past": ["knelt", "kneeled"],
+    "participle": ["knelt", "kneeled"],
+    "translation": "inginocchiarsi"
+  },
+  {
+    "base": "knit",
+    "past": ["knit", "knitted"],
+    "participle": ["knit", "knitted"],
+    "translation": "lavorare a maglia"
+  },
+  {
+    "base": "know",
+    "past": ["knew"],
+    "participle": ["known"],
+    "translation": "conoscere, sapere"
+  },
+  {
+    "base": "lay",
+    "past": ["laid"],
+    "participle": ["laid"],
+    "translation": "deporre, posare"
+  },
+  {
+    "base": "lead",
+    "past": ["led"],
+    "participle": ["led"],
+    "translation": "condurre, dirigere, guidare"
+  },
+  {
+    "base": "lean",
+    "past": ["leant", "leaned"],
+    "participle": ["leant", "leaned"],
+    "translation": "appoggiarsi/appoggiarsi"
+  },
+  {
+    "base": "leap",
+    "past": ["leapt", "leaped"],
+    "participle": ["leapt", "leaped"],
+    "translation": "saltare"
+  },
+  {
+    "base": "learn",
+    "past": ["learnt", "learned"],
+    "participle": ["learnt", "learned"],
+    "translation": "imparare"
+  },
+  {
+    "base": "leave",
+    "past": ["left"],
+    "participle": ["left"],
+    "translation": "lasciare, partire"
+  },
+  {
+    "base": "lend",
+    "past": ["lent"],
+    "participle": ["lent"],
+    "translation": "prestare"
+  },
+  {
+    "base": "let",
+    "past": ["let"],
+    "participle": ["let"],
+    "translation": "lasciare, permettere"
+  },
+  {
+    "base": "lie",
+    "past": ["lay"],
+    "participle": ["lain"],
+    "translation": "giacere, trovarsi"
+  },
+  {
+    "base": "light",
+    "past": ["lit", "lighted"],
+    "participle": ["lit", "lighted"],
+    "translation": "accendere, illuminare"
+  },
+  {
+    "base": "lose",
+    "past": ["lost"],
+    "participle": ["lost"],
+    "translation": "perdere"
+  },
+  {
+    "base": "make",
+    "past": ["made"],
+    "participle": ["made"],
+    "translation": "fare"
+  },
+  {
+    "base": "mean",
+    "past": ["meant"],
+    "participle": ["meant"],
+    "translation": "intendere, significare"
+  },
+  {
+    "base": "meet",
+    "past": ["met"],
+    "participle": ["met"],
+    "translation": "incontrare"
+  },
+  {
+    "base": "mistake",
+    "past": ["mistook"],
+    "participle": ["mistaken"],
+    "translation": "fraintendere, sbagliare/sbagliarsi"
+  },
+  {
+    "base": "misunderstand",
+    "past": ["misunderstood"],
+    "participle": ["misunderstood"],
+    "translation": "fraintendere"
+  },
+  {
+    "base": "mow",
+    "past": ["mowed"],
+    "participle": ["mown", "mowed"],
+    "translation": "falciare"
+  },
+  {
+    "base": "overcome",
+    "past": ["overcame"],
+    "participle": ["overcome"],
+    "translation": "superare, sopraffare"
+  },
+  {
+    "base": "pay",
+    "past": ["paid"],
+    "participle": ["paid"],
+    "translation": "pagare"
+  },
+  {
+    "base": "prove",
+    "past": ["proved"],
+    "participle": ["proved", "proven"],
+    "translation": "dimostrare"
+  },
+  {
+    "base": "put",
+    "past": ["put"],
+    "participle": ["put"],
+    "translation": "mettere"
+  },
+  {
+    "base": "read",
+    "past": ["read"],
+    "participle": ["read"],
+    "translation": "leggere"
+  },
+  {
+    "base": "rid",
+    "past": ["rid", "ridded"],
+    "participle": ["rid"],
+    "translation": "sbarazzare"
+  },
+  {
+    "base": "ride",
+    "past": ["rode"],
+    "participle": ["ridden"],
+    "translation": "cavalcare"
+  },
+  {
+    "base": "ring",
+    "past": ["rang"],
+    "participle": ["rung"],
+    "translation": "squillare, suonare"
+  },
+  {
+    "base": "rise",
+    "past": ["rose"],
+    "participle": ["risen"],
+    "translation": "alzarsi, sorgere"
+  },
+  {
+    "base": "run",
+    "past": ["ran"],
+    "participle": ["run"],
+    "translation": "correre"
+  },
+  {
+    "base": "saw",
+    "past": ["sawed"],
+    "participle": ["sawn", "sawed"],
+    "translation": "segare"
+  },
+  {
+    "base": "say",
+    "past": ["said"],
+    "participle": ["said"],
+    "translation": "dire"
+  },
+  {
+    "base": "see",
+    "past": ["saw"],
+    "participle": ["seen"],
+    "translation": "vedere"
+  },
+  {
+    "base": "seek",
+    "past": ["sought"],
+    "participle": ["sought"],
+    "translation": "cercare"
+  },
+  {
+    "base": "sell",
+    "past": ["sold"],
+    "participle": ["sold"],
+    "translation": "vendere"
+  },
+  {
+    "base": "send",
+    "past": ["sent"],
+    "participle": ["sent"],
+    "translation": "mandare, spedire"
+  },
+  {
+    "base": "set",
+    "past": ["set"],
+    "participle": ["set"],
+    "translation": "porre, tramontare"
+  },
+  {
+    "base": "sew",
+    "past": ["sewed"],
+    "participle": ["sewn"],
+    "translation": "cucire"
+  },
+  {
+    "base": "shake",
+    "past": ["shook"],
+    "participle": ["shaken"],
+    "translation": "agitare, scuotere, tremare"
+  },
+  {
+    "base": "shed",
+    "past": ["shed"],
+    "participle": ["shed"],
+    "translation": "spargere"
+  },
+  {
+    "base": "shine",
+    "past": ["shone", "shined"],
+    "participle": ["shone", "shined"],
+    "translation": "brillare, splendere"
+  },
+  {
+    "base": "shoot",
+    "past": ["shot"],
+    "participle": ["shot"],
+    "translation": "sparare, girare (un film)"
+  },
+  {
+    "base": "show",
+    "past": ["showed"],
+    "participle": ["shown", "showed"],
+    "translation": "mostrare"
+  },
+  {
+    "base": "shrink",
+    "past": ["shrank"],
+    "participle": ["shrunk"],
+    "translation": "restringersi"
+  },
+  {
+    "base": "shut",
+    "past": ["shut"],
+    "participle": ["shut"],
+    "translation": "chiudere"
+  },
+  {
+    "base": "sing",
+    "past": ["sang"],
+    "participle": ["sung"],
+    "translation": "cantare"
+  },
+  {
+    "base": "sink",
+    "past": ["sank"],
+    "participle": ["sunk"],
+    "translation": "affondare, sprofondare"
+  },
+  {
+    "base": "sit",
+    "past": ["sat"],
+    "participle": ["sat"],
+    "translation": "sedersi"
+  },
+  {
+    "base": "sleep",
+    "past": ["slept"],
+    "participle": ["slept"],
+    "translation": "dormire"
+  },
+  {
+    "base": "slide",
+    "past": ["slid"],
+    "participle": ["slid"],
+    "translation": "scivolare, scorrere"
+  },
+  {
+    "base": "sling",
+    "past": ["slung"],  
+    "participle": ["slung"],
+    "translation": "scagliare"
+  },
+  {
+    "base": "smell",
+    "past": ["smelt", "smelled"],
+    "participle": ["smelt", "smelled"],
+    "translation": "avere odore, odorare"
+  },
+  {
+    "base": "sow",
+    "past": ["sowed"],
+    "participle": ["sown", "sowed"],
+    "translation": "seminare"
+  },
+  {
+    "base": "speak",
+    "past": ["spoke"],
+    "participle": ["spoken"],
+    "translation": "parlare"
+  },
+  {
+    "base": "speed",
+    "past": ["sped", "speeded"],
+    "participle": ["sped", "speeded"],
+    "translation": "accelerare, affrettarsi"
+  },
+  {
+    "base": "spell",
+    "past": ["spelt", "spelled"],
+    "participle": ["spelt", "spelled"],
+    "translation": "compitare, fare lo spelling"
+  },
+  {
+    "base": "spend",
+    "past": ["spent"],
+    "participle": ["spent"],
+    "translation": "spendere, trascorrere"
+  },
+  {
+    "base": "spill",
+    "past": ["spilt", "spilled"],
+    "participle": ["spilt", "spilled"],
+    "translation": "spandere, versare"
+  },
+  {
+    "base": "spin",
+    "past": ["span", "spun"],
+    "participle": ["spun"],
+    "translation": "far girare, filare (filo)"
+  },
+  {
+    "base": "spit",
+    "past": ["spat"],
+    "participle": ["spat"],
+    "translation": "sputare"
+  },
+  {
+    "base": "split",
+    "past": ["split"],
+    "participle": ["split"],
+    "translation": "dividere, spaccare/spaccarsi"
+  },
+  {
+    "base": "spoil",
+    "past": ["spoilt", "spoiled"],
+    "participle": ["spoilt", "spoiled"],
+    "translation": "rovinare, sciupare, viziare"
+  },
+  {
+    "base": "spread",
+    "past": ["spread"],
+    "participle": ["spread"],
+    "translation": "diffondere/diffondersi, spalmare"
+  },
+  {
+    "base": "steal",
+    "past": ["stole"],
+    "participle": ["stolen"],
+    "translation": "rubare"
+  },
+  {
+    "base": "stick",
+    "past": ["stuck"],
+    "participle": ["stuck"],
+    "translation": "attaccare/attaccarsi, incollarsi"
+  },
+  {
+    "base": "sting",
+    "past": ["stung"],
+    "participle": ["stung"],
+    "translation": "pungere (di insetti)"
+  },
+  {
+    "base": "stink",
+    "past": ["stank"],
+    "participle": ["stunk"],
+    "translation": "puzzare"
+  },
+  {
+    "base": "stride",
+    "past": ["strode"],
+    "participle": ["stridden"],
+    "translation": "camminare a passi lunghi"
+  },
+  {
+    "base": "strike",
+    "past": ["struck"],
+    "participle": ["struck", "stricken"],
+    "translation": "colpire, cogliere"
+  },
+  {
+    "base": "string",
+    "past": ["strung"],
+    "participle": ["strung"],
+    "translation": "legare con corda/spago"
+  },
+  {
+    "base": "strive",
+    "past": ["strove"],
+    "participle": ["striven"],
+    "translation": "lottare, sforzarsi"
+  },
+  {
+    "base": "swear",
+    "past": ["swore"],
+    "participle": ["sworn"],
+    "translation": "giurare"
+  },
+  {
+    "base": "sweep",
+    "past": ["swept"],
+    "participle": ["swept"],
+    "translation": "spazzare"
+  },
+  {
+    "base": "swell",
+    "past": ["swelled"],
+    "participle": ["swollen", "swelled"],
+    "translation": "gonfiare/gonfiarsi"
+  },
+  {
+    "base": "swim",
+    "past": ["swam"],
+    "participle": ["swum"],
+    "translation": "nuotare"
+  },
+  {
+    "base": "swing",
+    "past": ["swung"],
+    "participle": ["swung"],
+    "translation": "dondolare, oscillare"
+  },
+  {
+    "base": "take",
+    "past": ["took"],
+    "participle": ["taken"],
+    "translation": "prendere, portare"
+  },
+  {
+    "base": "teach",
+    "past": ["taught"],
+    "participle": ["taught"],
+    "translation": "insegnare"
+  },
+  {
+    "base": "tear",
+    "past": ["tore"],
+    "participle": ["torn"],
+    "translation": "strappare, stracciare"
+  },
+  {
+    "base": "tell",
+    "past": ["told"],
+    "participle": ["told"],
+    "translation": "dire, raccontare"
+  },
+  {
+    "base": "think",
+    "past": ["thought"],
+    "participle": ["thought"],
+    "translation": "pensare"
+  },
+  {
+    "base": "throw",
+    "past": ["threw"],
+    "participle": ["thrown"],
+    "translation": "buttare, gettare"
+  },
+  {
+    "base": "thrust",
+    "past": ["thrust"],
+    "participle": ["thrust"],
+    "translation": "conficcare"
+  },
+  {
+    "base": "tread",
+    "past": ["trod"],
+    "participle": ["trodden"],
+    "translation": "calpestare, pestare"
+  },
+  {
+    "base": "understand",
+    "past": ["understood"],
+    "participle": ["understood"],
+    "translation": "capire, comprendere"
+  },
+  {
+    "base": "undertake",
+    "past": ["undertook"],
+    "participle": ["undertaken"],
+    "translation": "intraprendere"
+  },
+  {
+    "base": "wake",
+    "past": ["woke", "waked"],
+    "participle": ["woken", "waked"],
+    "translation": "svegliare/svegliarsi"
+  },
+  {
+    "base": "wear",
+    "past": ["wore"],
+    "participle": ["worn"],
+    "translation": "indossare, logorare/logorarsi"
+  },
+  {
+    "base": "weave",
+    "past": ["wove"],
+    "participle": ["woven"],
+    "translation": "tessere"
+  },
+  {
+    "base": "weep",
+    "past": ["wept"],
+    "participle": ["wept"],
+    "translation": "piangere"
+  },
+  {
+    "base": "win",
+    "past": ["won"],
+    "participle": ["won"],
+    "translation": "vincere"
+  },
+  {
+    "base": "wind",
+    "past": ["wound"],
+    "participle": ["wound"],
+    "translation": "avvolgere, serpeggiare (di strada)"
+  },
+  {
+    "base": "wring",
+    "past": ["wrung"],
+    "participle": ["wrung"],
+    "translation": "torcere"
+  },
+  {
+    "base": "write",
+    "past": ["wrote"],
+    "participle": ["written"],
+    "translation": "scrivere"
+  }
+]
