@@ -6,8 +6,8 @@ import os
 
 # --- Config ---
 MAX_QUESTIONS = 10
-PDF_FILE = "verbi_irregolari_completi.pdf"
-JSON_FILE = "verbi_irregolari_completi.json"
+PDF_FILE = "IrregularVerbs.pdf"
+JSON_FILE = "all_verbs.json"
 
 # --- Motivational phrases ---
 motivazioni = {
