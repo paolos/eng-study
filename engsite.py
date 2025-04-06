@@ -138,7 +138,7 @@ else:
 
 # --- Link alla Flashcard App ---
 st.divider()
-st.page_link("irregular_verbs_flashcards.py", label="🃏 Vai alle Flashcard")
+st.page_link("irregular_verbs_flashcards.py", label="Vai alle Flashcard")
 
 # --- Download PDF ---
 if os.path.exists(PDF_FILE):
