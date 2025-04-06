@@ -1,4 +1,3 @@
-
 import streamlit as st
 import random
 import json
@@ -67,7 +66,15 @@ if st.session_state.question_count >= MAX_QUESTIONS:
     if st.session_state.errors:
         st.markdown("---")
         st.subheader("📊 Errori commessi")
-        st.dataframe(st.session_state.errors, use_container_width=True)
+        for err in st.session_state.errors:
+            st.markdown(
+                f"""<div style='color: red; margin-bottom: 1em;'>
+                <b>{err['Base Form']}</b><br>
+                ❌ Your Past: <i>{err['Your Past']}</i> — ✅ Correct: {err['Correct Past']}<br>
+                ❌ Your Participle: <i>{err['Your Participle']}</i> — ✅ Correct: {err['Correct Participle']}
+                </div>""",
+                unsafe_allow_html=True
+            )
     else:
         st.success("👏 Nessun errore! Complimenti!")
 
