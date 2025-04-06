@@ -118,7 +118,7 @@ if not st.session_state.show_next:
                 })
 
             st.session_state.show_next = True
-            st.experimental_rerun()
+            st.rerun()
 
 # --- Feedback e bottone Next ---
 else:
