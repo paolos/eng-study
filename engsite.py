@@ -78,7 +78,7 @@ if st.session_state.question_count >= MAX_QUESTIONS:
         st.session_state.show_next = False
         st.session_state.feedback = ""
         st.session_state.errors = []
-        st.experimental_rerun()
+        st.rerun()
     st.stop()
 
 # --- Domanda attuale ---
@@ -127,7 +127,7 @@ else:
         st.session_state.index = random.randint(0, len(verbs) - 1)
         st.session_state.show_next = False
         st.session_state.feedback = ""
-        st.experimental_rerun()
+        st.rerun()
 
 # --- Download PDF ---
 st.divider()
