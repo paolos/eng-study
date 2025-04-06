@@ -136,8 +136,11 @@ else:
         st.session_state.feedback = ""
         st.rerun()
 
-# --- Download PDF ---
+# --- Link alla Flashcard App ---
 st.divider()
+st.page_link("irregular_verbs_flashcards.py", label="🃏 Vai alle Flashcard")
+
+# --- Download PDF ---
 if os.path.exists(PDF_FILE):
     with open(PDF_FILE, "rb") as f:
         st.download_button(
@@ -146,3 +149,4 @@ if os.path.exists(PDF_FILE):
             file_name=PDF_FILE,
             mime="application/pdf"
         )
+
