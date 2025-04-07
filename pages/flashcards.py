@@ -36,7 +36,7 @@ st.markdown("""
     font-weight: bold;
     border-radius: 15px;
     padding: 2rem;
-    min-height: 200px;
+    min-height: 250px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     text-align: center;
     width: 340px;
@@ -60,7 +60,6 @@ if not st.session_state.flipped:
     <div class='flashcard'>
         <div>
         ❓<br>
-        What is the<br>
         {tense_label}<br>
         of<br>
         {verb['base'].upper()}
